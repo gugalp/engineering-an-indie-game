@@ -1,9 +1,11 @@
 # Engineering an Indie Game
 ### A developer journal for building *Adventure Dreams*
 
-This repository contains a collection of posts documenting my journey building my first indie game, *Adventure Dreams*.
+Adventure Dreams is a solo indie RPG currently in development.
 
-I’ve spent almost two decades working as a software engineer building backend systems and large-scale platforms. Recently I decided to explore a different challenge: building a game from scratch as a solo developer.
+This repository contains a collection of posts documenting my journey building my first indie game: *Adventure Dreams*.
+
+I’ve spent almost two decades working as a software engineer building backend systems and large-scale distributed platforms. Recently I decided to explore a different challenge: building a game from scratch as a solo developer.
 
 These posts document the process, lessons, and experiments along the way.
 
@@ -22,12 +24,24 @@ This repository is a **developer journal** covering topics such as:
 
 Development started in late 2025 as a solo project exploring the intersection of engineering discipline and creative game development.
 
+My goal is to approach game development with the same systems thinking used in large-scale software engineering.
+
 The project focuses on:
 
 - modular game systems
 - a consistent visual identity
 - deterministic asset pipelines
 - building a complete playable experience as a solo developer
+
+## Development Philosophy
+
+This project follows a few guiding principles:
+
+- build systems before polish
+- favor constraints over endless possibilities
+- document decisions
+- treat solo projects with production discipline
+- ship something playable
 
 ## Devlog
 
@@ -47,12 +61,14 @@ Future posts will explore topics such as:
 ## Repository Structure
 
 ```markdown
-/assets  
-images used in posts  
-/notes  
-rough ideas and drafts  
-/posts  
-posts content
+/posts
+published devlog entries
+
+/notes
+rough ideas, experiments, and early drafts
+
+/assets
+images and media used in posts
 ```
 
 Posts are written in Markdown and serve as the source material for content shared on platforms such as LinkedIn.
@@ -64,7 +80,7 @@ Keeping these posts in a Git repository allows:
 - version history for ideas and decisions
 - a structured archive of the journey
 - transparency around the development process
-- the ability to revisit early assumptions later
+- the ability to revisit early assumptions and decisions
 
 ## Follow the Journey
 
@@ -73,13 +89,3 @@ These posts are also shared on:
 - [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-link-pinto-9007ab14/recent-activity/all/)
 
 If you're interested in game development, engineering systems, or creative side projects, feel free to follow along.
-
-## Development Philosophy
-
-This project follows a few guiding principles:
-
-- build systems before polish
-- favor constraints over endless possibilities
-- document decisions
-- treat solo projects with production discipline
-- ship something playable
