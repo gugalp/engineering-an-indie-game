@@ -20,6 +20,8 @@ This repository is a **developer journal** covering topics such as:
 
 *Adventure Dreams* is a top-down pixel-art RPG currently in development.
 
+Development started in late 2025 as a solo project exploring the intersection of engineering discipline and creative game development.
+
 The project focuses on:
 
 - modular game systems
@@ -29,16 +31,29 @@ The project focuses on:
 
 ## Devlog
 
-1. [Why I Started Building an Indie Game](posts/001-why-i-started.md)
+1. [Part 1 — Why I Started Building an Indie Game](posts/001-why-i-started.md)
+
+### Devlog Roadmap
+
+Future posts will explore topics such as:
+
+- designing the core gameplay loop
+- defining scope for a solo game
+- building a production pipeline for assets
+- experimenting with AI-assisted development
+- creating a consistent visual identity
+- preparing a game for Steam release
 
 ## Repository Structure
 
+```markdown
 /assets  
 images used in posts  
 /notes  
 rough ideas and drafts  
 /posts  
-posts content  
+posts content
+```
 
 Posts are written in Markdown and serve as the source material for content shared on platforms such as LinkedIn.
 

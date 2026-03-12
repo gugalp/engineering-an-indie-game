@@ -9,13 +9,13 @@ tags: [gamedev, solo-dev, devlog]
 # Engineering an Indie Game — Part 1  
 ### Why I Started Building an Indie Game
 
-Seven months ago I started building an indie game.
+Eight months ago I started building an indie game.
 
 I didn’t announce it.  
 I didn’t post screenshots.  
 I didn’t even tell many people.
 
-For most of my career — almost two decades now — I’ve worked as a software engineer building backend systems and large-scale platforms across domains like data bureaus, finance, education, and e-commerce.
+For most of my career — almost two decades now — I’ve worked as a software engineer building backend systems and large-scale platforms across domains such as finance, education, e-commerce, and data services.
 
 But I’ve always loved games.
 
@@ -28,7 +28,7 @@ Not a weekend experiment.
 
 A real game.
 
-So for the last seven months I’ve been working nights and weekends on a project called **Adventure Dreams**, a top-down pixel-art RPG.
+So for the last eight months I’ve been working nights and weekends on a project called **Adventure Dreams**, a top-down pixel-art RPG.
 
 It’s the kind of adventure game I loved playing growing up — exploration, discovery, and a world that slowly unfolds.
 
