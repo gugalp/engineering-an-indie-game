@@ -19,6 +19,10 @@ For most of my career — almost two decades now — I’ve worked as a software
 
 But I’ve always loved games.
 
+Some of the inspiration for *Adventure Dreams* comes from games and stories that stuck with me for years — like *Azure Dreams* and the dungeon exploration themes in *Magi: The Labyrinth of Magic*.
+
+That sense of mystery, progression, and climbing deeper into an unknown world has always fascinated me.
+
 At some point last year I decided to try something different:
 
 **Build one myself.**
