@@ -1,0 +1,86 @@
+---
+title: The First Mistake I Avoided When Starting the Project
+series: Engineering an Indie Game
+part: 2
+date: 2026-03-19
+tags: [gamedev, solo-dev, devlog]
+---
+
+# Engineering an Indie Game — Part 2  
+### The First Mistake I Avoided When Starting the Project
+
+When I decided to build a game, I knew something important:
+
+Most indie games never ship.
+
+Not because the developers lack talent.
+
+But because the scope quietly grows until the project becomes impossible to finish.
+
+Open-world ideas.
+Procedural systems.
+Endless content.
+Perfect graphics.
+
+The dream game keeps expanding.
+
+At some point the project collapses under its own ambition.
+
+I wanted to avoid that trap from the very beginning.
+
+Some of my early design notes looked something like this:
+
+![Early Game Structure Diagram](/assets/earlyGameStructureDiagram.png "Early Game Structure Diagram")
+
+And like most game ideas, it could easily grow from there.
+
+More towers.
+More regions.
+More systems.
+
+That’s exactly where many projects lose control of scope.
+
+So before writing any real code, I forced myself to answer a simple question:
+
+**What is the smallest version of this game that would still feel complete?**
+
+Not a demo.
+
+Not a prototype.
+
+A **complete game** — just smaller.
+
+That constraint shaped almost every decision that followed.
+
+Instead of designing a massive world, I started thinking about **tight systems**:
+
+- a small town that feels alive
+- a dungeon structure that encourages exploration
+- progression that rewards curiosity
+- mechanics that interact in interesting ways
+
+The goal isn't to build a huge game.
+
+The goal is to build a **coherent one**.
+
+As a software engineer, this felt surprisingly familiar.
+
+In large systems, uncontrolled scope leads to fragile architecture and endless delays.
+
+Games are no different.
+
+So the first rule of this project became simple:
+
+**Scope is a design decision.**
+
+Everything else grows from there.
+
+In the next part, I’ll talk about how defining the **core gameplay loop** helped turn that constraint into an actual game design.
+
+—
+
+**Engineering an Indie Game** is a series documenting my journey building *Adventure Dreams*.
+
+Part engineering journal, part devlog, part learning process.
+
+Full archive: [GitHub](https://github.com/gugalp/engineering-an-indie-game)
