@@ -34,7 +34,7 @@ A real game.
 
 So for the last eight months I’ve been working nights and weekends on a project called **Adventure Dreams**, a top-down pixel-art RPG.
 
-It’s the kind of adventure game I loved playing growing up — exploration, discovery, and a world that slowly unfolds.
+It’s the kind of adventure game I loved playing growing up — focused on exploration, discovery, and a world that slowly unfolds.
 
 The funny part is that I didn’t start with art.
 
@@ -47,7 +47,7 @@ I started the way engineers tend to start things:
 
 Only recently did I start tackling what might be my biggest challenge so far: **creating a visual identity for the game.**
 
-That’s also when I realized something:
+That’s also when I realized something important:
 
 If I want this project to actually ship, I need to start sharing the journey.
 
@@ -57,7 +57,7 @@ So this series will document what happens when a software engineer tries to buil
 - solo development challenges  
 - using AI tools to accelerate development  
 - learning disciplines far outside my comfort zone  
-- and the long road from idea → playable game  
+- the long road from idea → playable game  
 
 I’m not sure where this will end.
 
@@ -82,10 +82,14 @@ But I think the journey itself will be worth sharing.
 
 **Part 2 will be about the first mistake I intentionally avoided when starting the project.**
 
-Have you ever tried building something completely outside your professional field? What pushed you to start?
+Have you ever built something completely outside your professional field?
+
+A game, a tool, a side project, a book?
+
+What made you start?
 
 —  
-Engineering an Indie Game is a series documenting my journey building Adventure Dreams.
+**Engineering an Indie Game** is a series documenting my journey building *Adventure Dreams*.
 
 Part engineering journal, part devlog, part learning process.
 
