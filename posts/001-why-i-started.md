@@ -9,19 +9,17 @@ tags: [gamedev, solo-dev, devlog]
 # Engineering an Indie Game — Part 1  
 ### Why I Started Building an Indie Game
 
-Eight months ago I started building an indie game.
+Eight months ago I quietly started building an indie game.
 
 I didn’t announce it.  
 I didn’t post screenshots.  
 I didn’t even tell many people.
 
-For most of my career — almost two decades now — I’ve worked as a software engineer building backend systems and large-scale platforms across domains such as finance, education, e-commerce, and data services.
+For most of my career — almost two decades now — I've worked as a software engineer building backend systems and large-scale platforms across domains like finance, education, e-commerce, and large-scale data systems.
 
 But I’ve always loved games.
 
-Some of the inspiration for *Adventure Dreams* comes from games and stories that stuck with me for years — like *Azure Dreams* and the dungeon exploration themes in *Magi: The Labyrinth of Magic*.
-
-That sense of mystery, progression, and climbing deeper into an unknown world has always fascinated me.
+Especially games about character progression and exploration — discovering strange places, going deeper, and uncovering the unknown.
 
 At some point last year I decided to try something different:
 
@@ -36,7 +34,9 @@ So for the last eight months I’ve been working nights and weekends on a projec
 
 It’s the kind of adventure game I loved playing growing up — focused on exploration, discovery, and a world that slowly unfolds.
 
-The funny part is that I didn’t start with art.
+Some of the inspiration for *Adventure Dreams* comes from games and stories that stayed with me for years — like *Azure Dreams* and the dungeon exploration themes in *Magi: The Labyrinth of Magic*.
+
+The interesting part is that I didn’t start with art.
 
 I started the way engineers tend to start things:
 
@@ -47,21 +47,22 @@ I started the way engineers tend to start things:
 
 Only recently did I start tackling what might be my biggest challenge so far: **creating a visual identity for the game.**
 
-That’s also when I realized something important:
+That's also when I realized something.
 
 If I want this project to actually ship, I need to start sharing the journey.
 
-So this series will document what happens when a software engineer tries to build an indie game — including:
+So I'm starting a series called **Engineering an Indie Game** — documenting what happens when a software engineer tries to build a game from scratch.
 
-- architecture decisions  
-- solo development challenges  
-- using AI tools to accelerate development  
-- learning disciplines far outside my comfort zone  
-- the long road from idea → playable game  
+I'll be writing about:
 
-I’m not sure where this will end.
+- the architecture decisions that shaped the project
+- the real challenges of building solo
+- how I'm using AI tools to accelerate development
+- what it feels like to learn disciplines far outside my comfort zone — art, game design, narrative — all at once
 
-But I think the journey itself will be worth sharing.
+The road from idea to playable game is long.
+
+But I think the journey is worth sharing.
 
 <table>
   <tr>
@@ -82,11 +83,7 @@ But I think the journey itself will be worth sharing.
 
 **Part 2 will be about the first mistake I intentionally avoided when starting the project.**
 
-Have you ever built something completely outside your professional field?
-
-A game, a tool, a side project, a book?
-
-What made you start?
+Have you ever built something completely outside your field — and discovered your background helped in unexpected ways?
 
 —  
 **Engineering an Indie Game** is a series documenting my journey building *Adventure Dreams*.
