@@ -6,8 +6,9 @@ date: 2026-03-12
 tags: [gamedev, solo-dev, devlog]
 ---
 
-# Engineering an Indie Game — Part 1  
-### Why I Started Building an Indie Game
+# Engineering an Indie Game — Part 1
+
+## Why I Started Building an Indie Game
 
 Eight months ago I quietly started building an indie game.
 

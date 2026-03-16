@@ -6,8 +6,9 @@ date: 2026-03-15
 tags: [gamedev, solo-dev, devlog]
 ---
 
-# Engineering an Indie Game — Part 2  
-### The First Mistake I Avoided When Starting the Project
+# Engineering an Indie Game — Part 2
+
+## The First Mistake I Avoided When Starting the Project
 
 When I decided to build a game, I knew something important:
 
