@@ -1,5 +1,5 @@
 ---
-title: Designing the Core Gameplay Loop of Adventure Dreams - WIP
+title: Designing the Core Gameplay Loop of Adventure Dreams
 series: Engineering an Indie Game
 part: 3
 date: 2026-03-15
