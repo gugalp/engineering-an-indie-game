@@ -50,7 +50,9 @@ Not a prototype.
 
 A **complete game** — just smaller.
 
-That constraint shaped almost every decision that followed.
+That constraint shaped almost every design decision that followed.
+
+If the game had to stay small, then every system needed to justify its existence.
 
 Instead of designing a massive world, I started thinking about **tight systems**:
 
@@ -78,7 +80,6 @@ Everything else grows from there.
 In the next part, I’ll talk about how defining the **core gameplay loop** helped turn that constraint into an actual game design.
 
 —
-
 **Engineering an Indie Game** is a series documenting my journey building *Adventure Dreams*.
 
 Part engineering journal, part devlog, part learning process.
