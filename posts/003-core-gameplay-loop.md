@@ -1,0 +1,100 @@
+---
+title: Designing the Core Gameplay Loop - WIP
+series: Engineering an Indie Game
+part: 3
+date: 2026-03-15
+tags: [gamedev, solo-dev, devlog]
+---
+
+# Engineering an Indie Game — Part 3
+
+## Designing the Core Gameplay Loop
+
+Once the scope was under control, I faced a new question:
+
+What exactly will players do in this game?
+
+Not the story.
+Not the world.
+
+The moment-to-moment activity.
+
+In software architecture, this is similar to identifying the system's primary execution path.
+
+In games, it's called the core gameplay loop.
+
+The core loop is the cycle of actions players repeat again and again.
+It’s the rhythm of the game.
+
+If the loop is satisfying, players keep playing.
+If it's not, no amount of content can fix the game.
+
+- Explore → Fight → Loot → Upgrade
+- Build → Defend → Expand
+- Farm → Craft → Improve
+
+For Adventure Dreams, the first version of the loop became:
+
+Explore → Fight → Collect → Improve
+
+Explore
+
+- Navigate the tower
+- Discover enemies, secrets, and resources
+
+Fight
+
+- Turn-based combat encounters
+
+Collect
+
+- Loot, items, and crafting materials
+- Conquer sections of the tower
+
+Improve
+
+- Upgrade equipment and abilities
+- Improve the hometown
+
+Visually, the loop looks like this:
+
+![Initial Core Gameloop Diagram](/assets/initialCoreGameLoop.png "Initial Core Gameloop Diagram")
+
+The goal is simple:
+
+Every step should make the next step more interesting.
+
+As a software engineer, this reminded me of designing high-throughput systems.
+
+You identify the critical path.
+
+Then you optimize it.
+
+Remove friction.
+
+And make sure the system can scale.
+
+In games, the core loop is the critical path of player experience.
+
+The difficult part isn't defining a loop.
+
+It's making every step meaningful and satisfying.
+
+Exploration must feel rewarding.
+Combat must feel responsive.
+Progression must feel meaningful.
+
+With the core loop defined, the next step was obvious.
+
+I needed to prototype it quickly and see if it was actually fun.
+
+That meant building the first playable prototype.
+
+In the next post, I'll share how I approached building the first prototype of **Adventure Dreams**.
+
+—  
+**Engineering an Indie Game** is a series documenting my journey building *Adventure Dreams*.
+
+Part engineering journal, part devlog, part learning process.
+
+Full archive: [GitHub](https://github.com/gugalp/engineering-an-indie-game)
