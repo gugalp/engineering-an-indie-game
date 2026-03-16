@@ -1,5 +1,5 @@
 ---
-title: Designing the Core Gameplay Loop - WIP
+title: Designing the Core Gameplay Loop of Adventure Dreams - WIP
 series: Engineering an Indie Game
 part: 3
 date: 2026-03-15
@@ -8,7 +8,7 @@ tags: [gamedev, solo-dev, devlog]
 
 # Engineering an Indie Game — Part 3
 
-## Designing the Core Gameplay Loop
+## Designing the Core Gameplay Loop of Adventure Dreams
 
 Once the scope was under control, I faced a new question:
 
@@ -19,7 +19,7 @@ Not the world.
 
 The moment-to-moment activity.
 
-In software architecture, this is similar to identifying the system's primary execution path.
+In software architecture, this is similar to identifying a system's primary execution path.
 
 In games, it's called the core gameplay loop.
 
@@ -28,6 +28,8 @@ It’s the rhythm of the game.
 
 If the loop is satisfying, players keep playing.
 If it's not, no amount of content can fix the game.
+
+Some examples:
 
 - Explore → Fight → Loot → Upgrade
 - Build → Defend → Expand
@@ -56,7 +58,7 @@ Improve
 - Upgrade equipment and abilities
 - Improve the hometown
 
-Visually, the loop looks like this:
+Visually, the gameplay loop looks like this:
 
 ![Initial Core Gameloop Diagram](/assets/initialCoreGameLoop.png "Initial Core Gameloop Diagram")
 
@@ -67,16 +69,13 @@ Every step should make the next step more interesting.
 As a software engineer, this reminded me of designing high-throughput systems.
 
 You identify the critical path.
-
-Then you optimize it.
-
+Then optimize it.
 Remove friction.
-
 And make sure the system can scale.
 
-In games, the core loop is the critical path of player experience.
+In games, the core loop is the critical path of the player experience.
 
-The difficult part isn't defining a loop.
+The difficult part isn't defining the loop.
 
 It's making every step meaningful and satisfying.
 
