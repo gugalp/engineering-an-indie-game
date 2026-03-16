@@ -60,7 +60,7 @@ Improve
 
 Visually, the gameplay loop looks like this:
 
-![Initial Core Gameloop Diagram](/assets/initialCoreGameLoop.png "Initial Core Gameloop Diagram")
+![Initial Core Gameloop Diagram](/assets/InitialCoreGameLoop.png "Initial Core Gameloop Diagram")
 
 The goal is simple:
 
