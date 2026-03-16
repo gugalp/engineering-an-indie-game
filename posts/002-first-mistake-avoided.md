@@ -79,7 +79,7 @@ Everything else grows from there.
 
 In the next part, I’ll talk about how defining the **core gameplay loop** helped turn that constraint into an actual game design.
 
-—
+—  
 **Engineering an Indie Game** is a series documenting my journey building *Adventure Dreams*.
 
 Part engineering journal, part devlog, part learning process.
