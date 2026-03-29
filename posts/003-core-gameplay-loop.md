@@ -10,7 +10,9 @@ tags: [gamedev, solo-dev, devlog]
 
 ## Designing the Core Gameplay Loop of Adventure Dreams
 
-Once the scope was under control, a new question emerged:
+At that point, I had a problem.
+I didn’t actually know what the game was.
+And that’s a bigger problem than it sounds.
 
 What exactly will players do in this game?
 
@@ -27,7 +29,7 @@ The core loop is the cycle of actions players repeat again and again.
 It’s the rhythm of the game.
 
 If the loop is satisfying, players keep playing.
-If it's not, no amount of content can fix the game.
+If it's not, no amount of content will fix the game.
 
 Some examples:
 
@@ -35,6 +37,7 @@ Some examples:
 - Build → Defend → Expand
 - Farm → Craft → Improve
 
+After a few iterations (and a few bad ideas), I landed on a first version.
 For Adventure Dreams, the first version of the loop became:
 
 Explore → Fight → Collect → Improve
@@ -62,7 +65,7 @@ Visually, the gameplay loop looks like this:
 
 ![Initial Core Gameloop Diagram](/assets/InitialCoreGameLoop.png "Initial Core Gameloop Diagram")
 
-The goal is simple:
+The goal sounds simple:
 
 Every step should make the next step more interesting.
 
@@ -75,7 +78,7 @@ Make sure the system can scale.
 
 In games, the core loop is the critical path of the player experience.
 
-The difficult part isn't defining the loop.
+Defining the loop isn't the hard part.
 
 It's making every step meaningful and satisfying.
 
@@ -89,7 +92,10 @@ I needed to prototype it quickly and see if it was actually fun.
 
 That meant building the first playable prototype.
 
-In the next post, I'll share how I approached building the first prototype of **Adventure Dreams**.
+In the next post, I'll share how I approached building it.
+
+Curious how others approach this:
+Do you define the “core loop” first — or discover it while building?
 
 —  
 **Engineering an Indie Game** is a series documenting my journey building *Adventure Dreams*.
