@@ -46,7 +46,6 @@ So before writing any real code, I forced myself to answer a simple question:
 **What is the smallest version of this game that would still feel complete?**
 
 Not a demo.
-
 Not a prototype.
 
 A **complete game** — just smaller.

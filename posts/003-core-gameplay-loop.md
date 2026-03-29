@@ -10,7 +10,7 @@ tags: [gamedev, solo-dev, devlog]
 
 ## Designing the Core Gameplay Loop of Adventure Dreams
 
-Once the scope was under control, I faced a new question:
+Once the scope was under control, a new question emerged:
 
 What exactly will players do in this game?
 
@@ -71,7 +71,7 @@ As a software engineer, this reminded me of designing high-throughput systems.
 You identify the critical path.
 Then optimize it.
 Remove friction.
-And make sure the system can scale.
+Make sure the system can scale.
 
 In games, the core loop is the critical path of the player experience.
 
