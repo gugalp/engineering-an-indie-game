@@ -46,6 +46,9 @@ This project follows a few guiding principles:
 ## Devlog
 
 1. [Part 1 — Why I Started Building an Indie Game](posts/001-why-i-started.md)
+2. [Part 2 — The First Mistake I Avoided When Starting the Project](posts/002-first-mistake-avoided.md)
+3. [Part 3 — Designing the Core Gameplay Loop of Adventure Dreams](posts/003-core-gameplay-loop.md)
+4. [Part 4 — Building the First Prototype of Adventure Dreams](posts/004-the-first-prototype.md)
 
 ### Devlog Roadmap
 
