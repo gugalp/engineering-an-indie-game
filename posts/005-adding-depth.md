@@ -49,14 +49,7 @@ I wanted it to feel earned.
 
 So I designed the artifact system around it: each tower in Adventure Dreams has a unique artifact waiting at the top — something with a meaningful, lasting impact on how you play. Inspired by the idea of labyrinths concealing something powerful at their core — a theme that runs through *Magi: The Labyrinth of Magic*.
 
-The first tower's artifact grants the **Soul Trap** ability.
-
-Soul Trap lets you capture creatures during combat.
-Weakened enemies are easier to catch.
-Status effects — sleep, stun, poison — increase your chances further.
-
-The artifact starts with 6 slots.
-Players can upgrade it over time to carry more companions.
+The first tower's artifact grants the capture ability.
 
 Tamed creatures fight alongside you on future runs — and grow stronger over time through leveling and evolution in town.
 
@@ -99,7 +92,7 @@ Building these four systems wasn't a single breakthrough moment.
 It was a series of design conversations.
 
 How should item rarities affect drop rates — and how do they interact with the economy without breaking it?
-What should Soul Trap cost the player, and what should it give back?
+How should the taming system interact with the rest of the loop without breaking it?
 How fast should the skill tree open up without making early floors feel pointless?
 
 These aren't coding questions.
