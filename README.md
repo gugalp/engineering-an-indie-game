@@ -49,6 +49,7 @@ This project follows a few guiding principles:
 2. [Part 2 — The First Mistake I Avoided When Starting the Project](posts/002-first-mistake-avoided.md)
 3. [Part 3 — Designing the Core Gameplay Loop of Adventure Dreams](posts/003-core-gameplay-loop.md)
 4. [Part 4 — Building the First Prototype of Adventure Dreams](posts/004-the-first-prototype.md)
+5. [Part 5 — Adding Depth — and the Role AI Actually Plays in This Project](posts/005-adding-depth.md)
 
 ### Devlog Roadmap
 
