@@ -1,14 +1,14 @@
 ---
-title: Adding Depth — and the Role AI Actually Plays in This Project
+title: Adding Depth — Four Systems to Make the Loop Feel Real
 series: Engineering an Indie Game
 part: 5
 date: 2026-04-12
-tags: [gamedev, solo-dev, devlog, ai-tools, unity]
+tags: [gamedev, solo-dev, devlog, unity]
 ---
 
 # Engineering an Indie Game — Part 5
 
-## Adding Depth — and the Role AI Actually Plays in This Project
+## Adding Depth — Four Systems to Make the Loop Feel Real
 
 The prototype told me what was missing.
 
@@ -57,35 +57,7 @@ That's why taming sits at the intersection of both Collect and Improve.
 
 ---
 
-### How AI Actually Fits Into This Project
-
-I want to be honest about something I haven't addressed directly yet.
-
-Almost all of the code in Adventure Dreams is written by AI.
-
-Not generated blindly — designed collaboratively.
-
-My workflow looks roughly like this:
-
-I start with a design problem.
-I brainstorm it with AI — testing the logic, poking at edge cases, thinking through how systems connect.
-Once the design is solid, AI writes the implementation.
-I read every line, follow the reasoning, and own every decision.
-
-What AI gives me is velocity without blind trust.
-
-I can follow and fully understand the code it produces.
-Writing it myself from scratch would take significantly longer — not because the logic is beyond me, but because I'd need to research the right Unity APIs, the right patterns, the right idioms for each feature.
-
-AI compresses that research loop dramatically.
-
-What I bring is the creative direction, the design judgment, and the final call on every tradeoff.
-
-That division of labor is what makes solo development at this scope actually viable.
-
----
-
-### What That Looked Like in Practice
+### Designing the Systems
 
 Building these four systems wasn't a single breakthrough moment.
 
@@ -98,7 +70,7 @@ How fast should the skill tree open up without making early floors feel pointles
 These aren't coding questions.
 They're design questions with engineering consequences.
 
-AI helped me think them through faster than I could alone — and then turned the answers into working code.
+Having the right tools made all the difference.
 
 ---
 
@@ -119,10 +91,9 @@ Not good enough to feel like *the* game yet.
 
 ### What's Next
 
-In the next part, I'll go deep on one system specifically:
+In the next part, I'll talk about something I haven't addressed directly yet:
 
-The loot system — how I designed it, the decisions that shaped it,
-and what it actually takes to make finding items feel rewarding.
+The role AI actually plays in this project — and what it means for solo development at this scope.
 
 —  
 **Engineering an Indie Game** is a series documenting my journey building *Adventure Dreams*.
