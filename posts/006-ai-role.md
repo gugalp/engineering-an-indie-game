@@ -2,7 +2,7 @@
 title: The Role AI Actually Plays in This Project
 series: Engineering an Indie Game
 part: 6
-date: 2026-04-19
+date: 2026-04-XX
 tags: [gamedev, solo-dev, devlog, ai-tools, unity]
 ---
 
@@ -33,13 +33,25 @@ AI filled a specific gap that's hard to name until you've felt it:
 
 **The thinking partner gap.**
 
-Before writing a single line of code for any system — loot, economy, taming, skill progression — I'd open a conversation and think out loud.
+Before writing a single line of code for any system, I'd open a conversation and think out loud.
 
 What should this system do?
 How does it interact with the loop?
 Where are the design traps?
 
-That back-and-forth shaped every major system in Adventure Dreams before implementation started.
+That conversation became a spec.
+The spec became a roadmap.
+The roadmap became implementation.
+
+I didn't know it at the time, but that's essentially what spec-driven development is —
+a methodology that was just starting to surface when I was already doing it.
+
+Not because I read about it.
+Because it's what made sense as an engineer building alone.
+
+The spec kept me honest.
+It made scope pressure visible before it became a crisis.
+And it gave me something to return to when a system started drifting.
 
 It's not that AI made the decisions.
 It's that it made the decisions harder to get wrong.
@@ -53,35 +65,22 @@ When it came to implementation, the split was clear.
 I directed the approach.
 AI handled the implementation details.
 
-That meant I needed to understand what I was building well enough to lead it — and review what came back critically enough to catch what was wrong.
+That meant I needed to understand what I was building well enough to lead it —
+and review what came back critically enough to catch what was wrong.
 
-It's pair programming with an incredibly fast partner who occasionally misses the point entirely.
+That second part matters more than it sounds.
 
-The procedural floor generation system was built this way.
-So were the combat mechanics, the artifact system, and the Soul Trap taming ability.
+AI is a fast partner. It will produce something that compiles, passes a quick read, and looks reasonable.
 
-None of those would have shipped as fast without it.
+It won't always produce something that fits the architecture you had in mind.
 
----
+More than once, I got back code that technically worked and was structurally wrong for where the system needed to go.
 
-### Where It Failed
+Catching that required understanding the game deeply enough to know the difference.
 
-The clearest failure was art.
-
-I went in assuming AI image generation could maintain a coherent pixel art style across assets.
-
-It couldn't.
-
-Each generated asset looked plausible in isolation.
-Together, they looked like they came from five different games.
-
-The limitation isn't capability in the abstract — it's consistency over time and across a visual language.
-
-I ended up doing what any engineering team does when a dependency fails:
-
-Placeholder assets. Ship the mechanics. Return to the problem later.
-
-That debt is still open.
+It's pair programming — but the other developer doesn't carry your intent.
+The code is readable. The reasoning behind it isn't always.
+That gap is yours to manage.
 
 ---
 
