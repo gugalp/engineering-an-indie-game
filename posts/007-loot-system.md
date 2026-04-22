@@ -46,6 +46,8 @@ Rare items should feel like the floor just gave you something it didn't have to.
 
 That gap in feeling is what makes a player stop, look at an item, and actually think about it.
 
+![Rarity tier strip — Common through Artifact with in-game colors](/assets/post-07-rarity-tiers.png)
+
 Adventure Dreams is built around a procedural tower.
 Floors are different every run.
 Enemies are different.
@@ -62,6 +64,8 @@ The system itself is more than a skeleton.
 Six rarity tiers. Forty-five creature-specific drop tables.
 Drops that scale with floor depth, double for elites, quadruple for bosses.
 Equipment only spawns on humanoid enemies — and scales in material tier as you go deeper.
+
+![Creature type to loot type mapping](/assets/post-07-creature-loot.png)
 
 That last decision matters more than it looks.
 Creature type becomes a loot signal.
@@ -96,6 +100,8 @@ That's the right foundation for a system where the design work is still ahead.
 It means iteration is cheap.
 Testing a new idea costs minutes, not a refactor.
 Tuning drop rates, adjusting stat ranges, rebalancing rarity thresholds — all config changes, not code changes.
+
+![Drop rate scaling by floor depth](/assets/post-07-drop-rates.png)
 
 When you're a solo developer, that's not a nice-to-have.
 It's what keeps item design from becoming a blocker.
