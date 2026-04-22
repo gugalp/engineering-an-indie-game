@@ -108,7 +108,6 @@ Now it needs to be filled with things worth finding.
 
 In the next part, I'll go deeper on where loot actually goes — the town economy, how items flow into shops and building upgrades, and what crafting might look like as the system matures.
 
-What's your approach to loot in games you've played or built?
 Does rarity alone create the feeling — or does it need something else?
 
 —
