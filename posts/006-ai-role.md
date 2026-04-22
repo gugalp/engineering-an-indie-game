@@ -2,7 +2,7 @@
 title: The Role AI Actually Plays in This Project
 series: Engineering an Indie Game
 part: 6
-date: 2026-04-XX
+date: 2026-04-19
 tags: [gamedev, solo-dev, devlog, ai-tools, unity]
 ---
 
@@ -106,6 +106,8 @@ That part doesn't get outsourced.
 
 In the next part, I'll go deeper on one of the systems that benefited most from this workflow:
 the loot system — and the surprisingly tricky design problem of making items feel meaningful.
+
+How are you using AI in your own projects — and where has it let you down?
 
 —
 Part 6 — Engineering an Indie Game
