@@ -1,5 +1,5 @@
 ---
-title: The Loot System: Making Items Feel Meaningful
+title: "The Loot System: Making Items Feel Meaningful"
 series: Engineering an Indie Game
 part: 7
 date: 2026-04-22

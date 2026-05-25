@@ -51,6 +51,8 @@ This project follows a few guiding principles:
 4. [Part 4 — Building the First Prototype of Adventure Dreams](posts/004-the-first-prototype.md)
 5. [Part 5 — Adding Depth — Four Systems to Make the Loop Feel Real](posts/005-adding-depth.md)
 6. [Part 6 — The Role AI Actually Plays in This Project](posts/006-ai-role.md)
+7. [Part 7 — The Loot System: A Data-Driven Approach to Item Drops](posts/007-loot-system.md)
+8. [Part 8 — The Town Economy: Making the Hub Feel Alive](posts/008-town-economy.md)
 
 ### Devlog Roadmap
 
